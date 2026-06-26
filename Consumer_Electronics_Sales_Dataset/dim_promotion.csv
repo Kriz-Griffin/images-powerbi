@@ -1,0 +1,6 @@
+PromotionKey,PromotionName,PromotionType,DiscountPercent
+1,No Promotion,None,0
+2,Festival Sale,Festival,10
+3,New Launch,Launch,5
+4,Clearance,Clearance,20
+5,Bundle,Bundle,15

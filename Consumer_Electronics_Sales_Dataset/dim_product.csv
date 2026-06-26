@@ -1,0 +1,13 @@
+ProductKey,ProductID,ProductName,Category,Subcategory,Brand,LaunchYear,StandardCost,ListPrice
+1,P001,NovaPhone X,Smartphone,Smartphone,NovaTech,2024,268,338.02
+2,P002,NovaPhone Lite,Smartphone,Smartphone,NovaTech,2022,541,730.59
+3,P003,NovaPhone Ultra,Smartphone,Smartphone,NovaTech,2025,1156,1490.23
+4,P004,NovaBook Air,Laptop,Laptop,NovaTech,2023,105,132.66
+5,P005,NovaBook Pro,Laptop,Laptop,NovaTech,2022,516,762.34
+6,P006,NovaBook Ultra,Laptop,Laptop,NovaTech,2025,1189,1592.64
+7,P007,NovaTab 10,Tablet,Tablet,NovaTech,2024,491,713.0
+8,P008,NovaTab Pro,Tablet,Tablet,NovaTech,2023,53,84.35
+9,P009,NovaWatch Fit,Wearable,Wearable,NovaTech,2023,905,1269.82
+10,P010,NovaWatch Pro,Wearable,Wearable,NovaTech,2024,480,806.76
+11,P011,NovaBuds Air,Audio,Audio,NovaTech,2022,249,321.64
+12,P012,NovaBuds Max,Audio,Audio,NovaTech,2024,775,1264.31
